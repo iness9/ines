@@ -1,0 +1,2 @@
+# Exercice git
+git commit 
